@@ -1,0 +1,4 @@
+== README
+
+"This is a Finance Tracker"
+<tt>rake doc:app</tt>.
